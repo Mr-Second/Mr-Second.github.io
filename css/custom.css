@@ -101,3 +101,7 @@ div#category{
 	background: rgba(0, 0, 0, 0.5)!important;
 	color: #eeeeee;
 }
+
+..history_slide {
+	background: transparent;
+}
