@@ -1356,11 +1356,9 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://cdn.jsdelivr.net/gh/Mr-Second/ImageBed@master/img/20211215202310.jpg);
+  background: url(https://img1.imgtp.com/2023/02/23/0TLG1Zjs.jpg);
   background-attachment: local;
   background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -3280,8 +3278,6 @@ blockquote footer cite:before {
   background: #49b1f5;
   background-attachment: local;
   background-position: bottom;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
 }
 #footer:before {
@@ -3317,8 +3313,6 @@ blockquote footer cite:before {
   width: 100%;
   background-color: #49b1f5;
   background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-transition: all 0.5s;
